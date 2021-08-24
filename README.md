@@ -1,3 +1,3 @@
-# CienciaDeDado
-Aula de Ciência de Dados: Professor Edson
-Gestão do conhecimento: Professor Luis Caparroz
+# Materia: Ciência de dados
+Professor Edson de Mello Souza, souzaem@uni9.pro.br
+
